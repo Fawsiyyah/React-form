@@ -1,0 +1,80 @@
+body {
+    width: 100%;
+    margin: 0;
+    height: 100%;
+}
+
+.heading {
+    background-color:purple;
+    padding: 2px 0;
+    text-align: center;
+    font-size: 42px;
+    font-family: monospace;
+}
+
+.heading p {
+    color: #ffff;
+    font-weight: bolder;
+}
+
+.sub-head {
+    text-align:center;
+    font-size: 40px;
+    color: purple;
+}
+
+.inline {
+    max-width: 70%;
+    margin-left: 22%;
+}
+
+
+
+.input {
+    text-align:left;
+    margin-bottom: 10px;
+    padding: 12px;
+    width: 80%;
+    font-size: 28px;
+    border-radius: 5px;
+    border-color: gray;
+}
+
+
+
+.icon {
+    color: #000;
+    margin-left: 4px;
+    padding-right: 5px;
+    font-size: 32px;
+}
+
+label {
+    display: block;
+    padding: 5px 0;
+    font-weight: bold;
+    font-size: 32px;
+    color: purple;
+    margin-bottom: 10px;
+}
+
+textarea {
+    margin-left: 40px !important;
+}
+
+button {
+    background-color: purple;
+    color: #ffff;
+    padding: 8px 35px;
+    border: none;
+    margin-top: 10px;
+    margin-left: 30%;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+button:hover {
+    background-color: #ffff;
+    color: purple;
+    border: 3px solid purple;
+}
